@@ -1,0 +1,168 @@
+header{
+        background-image: url(gourppic.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        padding: 88px 20px;
+        text-align: left;
+    }
+header-h1{
+    position: absolute;
+    color: white;
+    font-size: 50px;
+}
+.pre{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 30px;
+    color: white;
+}
+   .row {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+           }
+          
+           .container {
+            margin-right: 150px;
+            margin-left: 150px;
+        }
+
+     
+        /*.col-lg-1{
+            flex: 0 0 8.333333%;
+            max-width: 8.333333%;
+        }
+        .col-lg-2{
+            flex: 0 0 16.666666%;
+            max-width: 16.666666%;
+        }
+        .col-lg-3{
+            flex: 0 0 25%;
+            max-width: 25%;
+        }
+        .col-lg-4{
+            flex: 0 0 33.333333%;
+            max-width: 33.333333%;
+        }
+        .col-lg-5{
+            flex: 0 0 41.666666%;
+            max-width: 41.666666%;
+        }
+        .col-lg-6{
+            flex: 0 0 50%;
+            max-width: 50%;
+        }
+         .col-lg-7{
+            flex: 0 0 58.333333%;
+            max-width: 58.333333%;
+        }
+           .col-lg-8{
+            flex: 0 0 66.666666%;
+            max-width: 66.666666%;
+        }
+            .col-lg-9{
+            flex: 0 0 75%;
+            max-width: 75%;
+        }
+       
+             .col-lg-10{
+            flex: 0 0 83.333333%;
+            max-width: 83.333333%;
+        }
+            .col-lg-11{
+            flex: 0 0 91.666666%;
+            max-width: 91.666666%;
+        }
+            v.col-lg-12{
+            flex: 0 0 100%;
+            max-width: 100%;
+        }*/
+                .rowheight{
+            height: 300px;
+        }
+        .paragraph{
+            font-size:20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: left;
+            color: white;
+        }
+        .BG{
+            background-image: url(thirdbg.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position:;
+
+
+        }
+        .bg{
+            background-image: url(bg.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position:center;
+           
+        }
+        .logo{
+           left: 50px;
+           top: 50px;
+           width: 75px;
+           height: 45px;
+           position: sticky;
+        }
+
+        {
+            margin-left: 420px;
+            margin-bottom: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 34px;
+
+        }
+.nyak{
+    background-image: url(third.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.clear{
+        text-align: center;
+        margin-left: 40%;
+        margin-right: 50px;
+}
+
+.minapic{
+    float: left;
+    width: 30%;
+    height: 30%;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+
+}
+.wrapper{
+    padding: 0 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    gap: 5rem;
+}
+.vicepic{
+    float: left;
+    width: 30%;
+    height: 50%;
+
+}
+.iharupic{
+    float:left;
+     width: 50%;
+    height: 69%;
+    margin-right: 10px;
+    margin-left: -63%;
+}
+
+    
